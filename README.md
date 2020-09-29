@@ -16,12 +16,16 @@ Repo Judul Skripsi Yang Saya Tawarkan Tahun 2020
 
 ## D3
 
+1. Logic puzzle game ex :
+   1. https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc
+   2. https://play.google.com/store/apps/details?id=com.educastudio.marbellogicadventures
+
 ### Kuota 3 Judul
 
 ## D4
 
 ### Kuota 8 Judul
 
-1. Sistem auto grader menggunakan github action (Adit)
-2. Sistem auto grader query mysql
+1. Sistem auto grader menggunakan github action (Taken by : Adit)
+2. Sistem auto grader query mysql (query similarity)
 3.
