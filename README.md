@@ -21,7 +21,11 @@ Repo Judul Skripsi Yang Saya Tawarkan Tahun 2020
    1. https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc
    2. https://play.google.com/store/apps/details?id=com.educastudio.marbellogicadventures
 
-2.
+2. Service Validator untuk file word laporan skripsi / pkl JTI Polinema cek sudah sesuai format atau belum
+   1. Contoh Jenis Font
+   2. Validasi Header dan Footer
+   3. Validasi Jumlah Halaman
+   4. dan lain lain sesuai kebutuhan template
 3.
 
 ### Kuota 3 Judul
