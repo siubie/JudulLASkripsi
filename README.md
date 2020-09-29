@@ -16,4 +16,12 @@ Repo Judul Skripsi Yang Saya Tawarkan Tahun 2020
 
 ## D3
 
+### Kuota 3 Judul
+
 ## D4
+
+### Kuota 8 Judul
+
+1. Sistem auto grader menggunakan github action (Adit)
+2. Sistem auto grader query mysql
+3.
