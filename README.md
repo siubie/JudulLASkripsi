@@ -26,7 +26,7 @@ Repo Judul Skripsi Yang Saya Tawarkan Tahun 2020
    2. Validasi Header dan Footer
    3. Validasi Jumlah Halaman
    4. dan lain lain sesuai kebutuhan template
-3.
+3. Absensi Online ??[ sudah banyak solusi lain tapi kalo ada ide yang sesuai dengan kondisi kampus dan bisa interkoneksi sama siakad boleh lah]
 
 ### Kuota X Judul
 
