@@ -27,6 +27,7 @@ Repo Judul Skripsi Yang Saya Tawarkan Tahun 2020
    3. Validasi Jumlah Halaman
    4. dan lain lain sesuai kebutuhan template
 3. Absensi Online ??[ sudah banyak solusi lain tapi kalo ada ide yang sesuai dengan kondisi kampus dan bisa interkoneksi sama siakad boleh lah]
+4. Data Scraping menggunakan puppeteer (scraping data sinta)
 
 ### Kuota X Judul
 
