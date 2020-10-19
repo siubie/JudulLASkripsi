@@ -30,6 +30,7 @@ Repo Judul Skripsi Yang Saya Tawarkan Tahun 2020
 4. Data Scraping menggunakan puppeteer (scraping data sinta)
 5. Only News : Scraping portal berita dan menampilkan content berita tanpa iklan (pake puppeteer, frontend nya react / vue / laravel) (Taken)
 6. Supply Chain Management untuk Pabrik Tembakau (Taken)
+7. Platform Tutoring dan Materi Online (Dicoding+Parsinta+Forum+Tutoring face to face) (Taken)
 
 ### Kuota X Judul
 
