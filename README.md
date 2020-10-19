@@ -42,3 +42,4 @@ Repo Judul Skripsi Yang Saya Tawarkan Tahun 2020
 2. Sistem auto grader query mysql (query similarity) (Taken)
 3. Source code similarity
 4. Digital Signature 
+5. SMS Spam Detector V2 (Pake Tensor Flow Neural Network)
