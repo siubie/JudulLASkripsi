@@ -41,3 +41,4 @@ Repo Judul Skripsi Yang Saya Tawarkan Tahun 2020
 1. Sistem auto grader menggunakan github action (Taken)
 2. Sistem auto grader query mysql (query similarity) (Taken)
 3. Source code similarity
+4. Digital Signature 
