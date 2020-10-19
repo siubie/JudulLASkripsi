@@ -29,6 +29,7 @@ Repo Judul Skripsi Yang Saya Tawarkan Tahun 2020
 3. Absensi Online ??[ sudah banyak solusi lain tapi kalo ada ide yang sesuai dengan kondisi kampus dan bisa interkoneksi sama siakad boleh lah]
 4. Data Scraping menggunakan puppeteer (scraping data sinta)
 5. Only News : Scraping portal berita dan menampilkan content berita tanpa iklan (pake puppeteer, frontend nya react / vue / laravel) (Taken)
+6. Supply Chain Management untuk Pabrik Tembakau (Taken)
 
 ### Kuota X Judul
 
